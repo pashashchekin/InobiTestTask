@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InobiTestTask</string>
+    <string name="add_comment">Добавить комментарий</string>
+    <string name="comment_name">Name:</string>
+    <string name="comment_email">Email:</string>
+    <string name="comment_txt">Txt:</string>
+    <string name="new_comment_label">Новый комментарий</string>
+    <string name="dialog_comment_name">Имя</string>
+    <string name="dialog_comment_email">Email</string>
+    <string name="dialog_comment_txt">Комментарий</string>
+    <string name="dialog_add_button">Добавить</string>
+    <string name="comment_added">Комментарий добавлен</string>
+</resources>
